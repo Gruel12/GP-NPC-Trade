@@ -4,7 +4,7 @@ License
 
   By using this script, you agree to abide by the terms of this license. Any unauthorized use, reproduction, or distribution of this script for commercial purposes is strictly prohibited and may result in legal action.
 
-  If you have any questions or would like to request permission for commercial use, please contact the original creator, "GunniP," on discord or github " Discord https://discord.gg/MYpCQAwF78 " " github
+  If you have any questions or would like to request permission for commercial use, please contact the original creator, "GunniP," on discord or github " Discord https://discord.gg/MYpCQAwF78 " " github https://github.com/Gruel12 "
 
   Thank you for respecting the terms of this license and supporting the spirit of free and collaborative software development.
 
