@@ -1,3 +1,16 @@
+**THIS SCRIPT DOES NOT WORK IF SOMEONE DECIDES TO FIX IT LET ME KNOW PLEASE**
+
+
+
+
+
+
+
+
+
+
+
+
 License
 
   This script was created for free use by "GunniP." You are granted the right to use, modify, and distribute this script for personal or non-commercial purposes. However, you are expressly prohibited from selling or commercially exploiting this script, in whole or in part, without explicit written permission from the original creator, "GunniP."
